@@ -19,7 +19,6 @@ type AMSIEvent struct {
 	AppName         string `json:"appname"`
 	Content         string `json:"content"`
 	ContentFiltered string `json:"contentFiltered"`
-	ContentBase64   string `json:"contentBase64"`
 	ContentName     string `json:"contentname"`
 	ContentSize     string `json:"contentsize"`
 	Hash            string `json:"hash"`
