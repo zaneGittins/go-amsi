@@ -10,7 +10,7 @@ Code is heavily based on example from [bi-zone/etw](https://github.com/bi-zone/e
 
 `go build .\amsi.go`
 
-## Resources
+## References
 
 * [bi-zone/etw](https://github.com/bi-zone/etw)
 * [Obfuscated Script-based Malware Analysis with the Anti-Malware Scan Interface (AMSI) - Matt Graeber](https://www.youtube.com/watch?v=jixcNj-Mc40)
